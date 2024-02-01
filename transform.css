@@ -388,9 +388,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: top right;
 }
 .r15:hover{
-    transform-origin: top right;
     transform: rotate(45deg);
 }
 .r16{
@@ -398,9 +398,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: bottom left ;
 }
 .r16:hover{
-    transform-origin: bottom left ;
     transform: rotate(45deg);
 }
 .r17{
@@ -408,9 +408,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: bottom;
 }
 .r17:hover{
-    transform-origin: bottom;
     transform: perspective(200px) rotateX(35deg);
 
 }
@@ -419,9 +419,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: top;
 }
 .r18:hover{
-    transform-origin: top;
     transform: perspective(200px) rotateX(-35deg);
 }
 
@@ -430,9 +430,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: left;
 }
 .r19:hover{
-    transform-origin: left;
     transform: perspective(200px) rotateY(35deg);
 }
 .box4{
@@ -501,9 +501,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: right;
 }
 .r20:hover{
-    transform-origin: right;
     transform: perspective(250px) rotateY(35deg);
 }
 .r21{
@@ -511,8 +511,8 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
-}.r21:hover{
     transform-origin: top right;
+}.r21:hover{
     transform: scale(2);
 }
 .r22{
@@ -520,9 +520,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: bottom left;
 }
 .r22:hover{
-    transform-origin: bottom left;
     transform: scale(2);
 }
 .r23{
@@ -530,9 +530,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: right;
 }
 .r23:hover{
-    transform-origin: right;
     transform: scaleX(1.6);
 }
 .r24{
@@ -540,9 +540,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: left;
 }
 .r24:hover{
-    transform-origin: left;
     transform: scaleX(1.6);
 }
 .box5{
@@ -578,9 +578,9 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: top;
 }
 .r25:hover{
-    transform-origin: top;
     transform: scaleY(1.6);
 }
 .r26{
@@ -588,8 +588,8 @@ div{
     width: 150px;
     height: 145px;
     margin: 10px 57px;
+    transform-origin: bottom;
 }
 .r26:hover{
-    transform-origin: bottom;
     transform: scaleY(1.6);
 }
